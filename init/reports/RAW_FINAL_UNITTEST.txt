@@ -1,0 +1,34 @@
+test_multicomponent_dry_run_scaled_target (test_integration.IntegrationTests.test_multicomponent_dry_run_scaled_target) ... ok
+test_skill_references_exist (test_integration.IntegrationTests.test_skill_references_exist) ... ok
+test_small_dry_run_no_padding (test_integration.IntegrationTests.test_small_dry_run_no_padding) ... ok
+test_finding_schema (test_judge_contract.JudgeContractTests.test_finding_schema) ... ok
+test_no_invented_findings (test_judge_contract.JudgeContractTests.test_no_invented_findings) ... ok
+test_review_dimensions (test_judge_contract.JudgeContractTests.test_review_dimensions) ... ok
+test_verdicts_and_re_review (test_judge_contract.JudgeContractTests.test_verdicts_and_re_review) ... ok
+test_archive_layout (test_packaging_contract.PackagingContractTests.test_archive_layout) ... ok
+test_archive_verification (test_packaging_contract.PackagingContractTests.test_archive_verification) ... ok
+test_progressive_checkpoint_and_context_truth (test_packaging_contract.PackagingContractTests.test_progressive_checkpoint_and_context_truth) ... ok
+test_secret_and_upload_boundaries (test_packaging_contract.PackagingContractTests.test_secret_and_upload_boundaries) ... ok
+test_explicit_activation_and_phase_machine (test_skill_contract.SkillContractTests.test_explicit_activation_and_phase_machine) ... ok
+test_final_artifact_gate_and_handoff (test_skill_contract.SkillContractTests.test_final_artifact_gate_and_handoff) ... ok
+test_frontmatter_and_discovery_description (test_skill_contract.SkillContractTests.test_frontmatter_and_discovery_description) ... ok
+test_honesty_and_private_reasoning_boundaries (test_skill_contract.SkillContractTests.test_honesty_and_private_reasoning_boundaries) ... ok
+test_judge_repair_rejudge_required (test_skill_contract.SkillContractTests.test_judge_repair_rejudge_required) ... ok
+test_reference_files_are_named (test_skill_contract.SkillContractTests.test_reference_files_are_named) ... ok
+test_requested_execution_loop_exists (test_skill_contract.SkillContractTests.test_requested_execution_loop_exists) ... ok
+test_skill_is_compact_enough_for_repeated_loading (test_skill_contract.SkillContractTests.test_skill_is_compact_enough_for_repeated_loading) ... ok
+test_target_formula_is_bounded_and_deterministic (test_skill_contract.SkillContractTests.test_target_formula_is_bounded_and_deterministic) ... ok
+test_distinct_concepts_and_statuses (test_target_formula.VerificationProtocolTests.test_distinct_concepts_and_statuses) ... ok
+test_factor_catalog (test_target_formula.VerificationProtocolTests.test_factor_catalog) ... ok
+test_formula_examples (test_target_formula.VerificationProtocolTests.test_formula_examples) ... ok
+test_ledger_ids_and_hypothesis_separation (test_target_formula.VerificationProtocolTests.test_ledger_ids_and_hypothesis_separation) ... ok
+test_common_truthfulness_instruction (test_templates.TemplateTests.test_common_truthfulness_instruction) ... ok
+test_handoff_is_restart_oriented (test_templates.TemplateTests.test_handoff_is_restart_oriented) ... ok
+test_init_report_sections (test_templates.TemplateTests.test_init_report_sections) ... ok
+test_judge_report_has_both_passes (test_templates.TemplateTests.test_judge_report_has_both_passes) ... ok
+test_test_results_separate_counts (test_templates.TemplateTests.test_test_results_separate_counts) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 0.005s
+
+OK
